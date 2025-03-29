@@ -1,0 +1,45 @@
+/* style.css */
+.stButton>button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 100%;
+}
+
+.stButton>button:hover {
+    background-color: #45a049;
+}
+
+.stTextInput>div>div>input {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.stSelectbox>div>div>select {
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.stAlert {
+    border-radius: 8px;
+}
+
+.st-bb {
+    background-color: #f8f9fa;
+}
+
+.st-bc {
+    background-color: #ffffff;
+}
+
+.stMarkdown {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
