@@ -42,19 +42,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
 
-## **📂 Project Structure**  
-```
-voice-driven-banking/
-├── app.py                # Streamlit frontend
-├── core/
-│   ├── voice_processing.py  # Whisper + TTS
-│   ├── nlp_processing.py    # Intent detection
-│   └── banking_ops.py       # Mock transactions
-├── data/                 # Sample voice & transaction data
-└── requirements.txt      # Dependencies
-```
 
 ---
 
